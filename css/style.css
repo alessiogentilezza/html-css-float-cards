@@ -44,3 +44,9 @@ img {
     position: sticky   ;
     top: 50%;
 }
+
+.clearfix::after {
+    content: '';
+    clear:both;
+    display: table;
+}
