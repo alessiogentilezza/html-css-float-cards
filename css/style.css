@@ -8,9 +8,6 @@ body {
     font-family: 'Fredoka', sans-serif;
 }
 
-.debug .col {
-    border: solid 1px red;
-}
 
 h1 {
     color: #E53170;
@@ -41,12 +38,12 @@ img {
 
 #testo {
     height: 80px;
-    position: sticky   ;
+    position: sticky;
     top: 50%;
 }
 
 .clearfix::after {
     content: '';
-    clear:both;
+    clear: both;
     display: table;
 }
