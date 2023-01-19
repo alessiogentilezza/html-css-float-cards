@@ -41,6 +41,6 @@ img {
 
 #testo {
     height: 80px;
-    position: relative;
+    position: sticky   ;
     top: 50%;
 }
