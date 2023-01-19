@@ -25,22 +25,16 @@ h1 {
     float: left;
     width: calc(100% / 3 - 20px);
     margin-top: 30px;
-    /* padding-right: 50px; */
     margin-right: 20px;
 }
 
 img {
     height: 100%;
-    /* float: left; */
     padding-right: 20px;
-    /*display: inline-block;*/
     vertical-align: middle;
 }
 
 #testo {
-    /* height: 80px; */
-    /* position: sticky; */
-    /* top: 50%; */
     display: inline-block;
     vertical-align: middle;
 }
@@ -49,7 +43,6 @@ img {
     background-color: black;
     color: white;
     text-align: left;
-    /* margin-top: 30px; */
     height: 100px;
     min-width: 350px;
 }
