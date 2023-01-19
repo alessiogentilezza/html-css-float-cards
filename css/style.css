@@ -3,3 +3,44 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+body {
+    font-family: 'Fredoka', sans-serif;
+}
+
+.debug .col {
+    border: solid 1px red;
+}
+
+h1 {
+    color: #E53170;
+}
+
+.container {
+    max-width: 1170px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+.col {
+    float: left;
+    width: calc(100% / 3);
+    background-color: black;
+    color: white;
+    text-align: left;
+    margin-top: 30px;
+    height: 100px;
+}
+
+img {
+    height: 100px;
+    float: left;
+    padding-right: 20px;
+}
+
+#testo {
+    height: 80px;
+    position: relative;
+    top: 50%;
+}
